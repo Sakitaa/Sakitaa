@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potepaweronika
 - 👀 I’m interested in gym, healthy lifestyle and challenging myself by learning new things about various topics.
-- 🌱 I’m currently learning Basics of AI in Python and Nucleo microcontroller programming.
-- 💞️ I’m looking to collaborate on any intresting projects in Python or C++.
+- 🌱 I’m currently interested in Nucleo microcontroller programming, web development and OOP.
+- 💞️ I’m looking to collaborate on any intresting projects!
 - 📫 How to reach me weronika.potepaa@gmail.com
 
 <!---
